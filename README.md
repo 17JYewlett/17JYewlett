@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Joseph Yewlett, a 2nd Year Computer Science MSci student at Loughborough University.
-I am 20 years old.
+I am Joseph Yewlett, a 2nd Year Computer Science MSci student at Loughborough University.<br>
+I am 20 years old.<br>
 My main areas of expertise are as follows:
 * Python
 * C, C++ (incl. arduino)
