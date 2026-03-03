@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Joseph Yewlett, a 2nd Year Computer Science MSci student at Loughborough University.
+I am 20 years old.
+My main areas of expertise are as follows:
+* Python
+* C, C++ (incl. arduino)
+* HTML, CSS, Javascript and PHP
+* Java
+* Kotlin for android development
+* Haskell (functional programming)
