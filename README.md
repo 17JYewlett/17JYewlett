@@ -23,3 +23,8 @@ My main areas of expertise are as follows:
 * Java
 * Kotlin for android development
 * Haskell (functional programming)
+
+I have just started learning:
+* Swift for iOS app development
+
+My Current Main Project is a language learning app. I have developed both a prototype for iOS and for Android, and look forward to sharing more about it later in the year!
